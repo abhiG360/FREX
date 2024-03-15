@@ -1,0 +1,12 @@
+# General
+/server/.env
+.DS_Store
+
+# Dependencies
+/node_modules
+/client/node_modules
+/server/node_modules
+
+
+# Build output
+/client/build
